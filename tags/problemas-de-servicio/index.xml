@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>problemas de servicio on Obolog</title>
-    <link>http://blog.obolog.es/tags/problemas-de-servicio/</link>
+    <link>http://blog.obolog.com/tags/problemas-de-servicio/</link>
     <description>Recent content in problemas de servicio on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 24 Jan 2011 09:08:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.obolog.es/tags/problemas-de-servicio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.com/tags/problemas-de-servicio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Problemas con las estadísticas de los blogs</title>
-      <link>http://blog.obolog.es/problemas-estadisticas-blogs-1158396/</link>
+      <link>http://blog.obolog.com/problemas-estadisticas-blogs-1158396/</link>
       <pubDate>Mon, 24 Jan 2011 09:08:00 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/problemas-estadisticas-blogs-1158396/</guid>
+      <guid>http://blog.obolog.com/problemas-estadisticas-blogs-1158396/</guid>
       <description>Hola a tod@s,
 sois muchos los que estos d&amp;iacute;as nos hab&amp;eacute;is hecho llegar correos y mensajes a soporte preguntando por las estad&amp;iacute;sticas de los blogs, que desde el d&amp;iacute;a 31 de diciembre muestran 0 visitas todos los d&amp;iacute;as. &amp;iexcl;Que no cunda el p&amp;aacute;nico! Vuestros blogs siguen recibiendo visitas, simplemente hemos desactivado temporalmente el sistema de estad&amp;iacute;sticas de los blogs.
 Seguro que muchos recordar&amp;eacute;is los problemas de conectividad que tuvimos durante las &amp;uacute;ltimas semanas del a&amp;ntilde;o.</description>
@@ -24,29 +24,29 @@ Seguro que muchos recordar&amp;eacute;is los problemas de conectividad que tuvim
     
     <item>
       <title>Más potencia para OboLog</title>
-      <link>http://blog.obolog.es/mas-potencia-obolog-334674/</link>
+      <link>http://blog.obolog.com/mas-potencia-obolog-334674/</link>
       <pubDate>Sat, 12 Sep 2009 18:55:00 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/mas-potencia-obolog-334674/</guid>
+      <guid>http://blog.obolog.com/mas-potencia-obolog-334674/</guid>
       <description>Pos&amp;iacute;blemente durante la &amp;uacute;ltima semana hab&amp;eacute;is experimentado algunos problemas para acceder a OboLog, especialmente por la noche, durante las horas en qu&amp;eacute; experimentamos los picos de tr&amp;aacute;fico. La cuesti&amp;oacute;n es que el servidor al que nos movimos hace un a&amp;ntilde;o se ha quedado peque&amp;ntilde;o: durante estos &amp;uacute;ltimos meses hemos multiplicado pr&amp;aacute;cticamente por 4 nuestro tr&amp;aacute;fico y el pobre ha tenido problemas para aguantar en determinados momentos. &amp;iexcl;Del mill&amp;oacute;n y medio de visitas que ten&amp;iacute;amos en agosto del 2008 hemos pasado a m&amp;aacute;s de 5 millones y medio en agosto de 2009!</description>
     </item>
     
     <item>
       <title>¡OboLog ya vuelve a estar en marcha!</title>
-      <link>http://blog.obolog.es/obolog-vuelve-estar-marcha-113810/</link>
+      <link>http://blog.obolog.com/obolog-vuelve-estar-marcha-113810/</link>
       <pubDate>Tue, 29 Jul 2008 17:51:25 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/obolog-vuelve-estar-marcha-113810/</guid>
+      <guid>http://blog.obolog.com/obolog-vuelve-estar-marcha-113810/</guid>
       <description>Despu&amp;eacute;s de tres d&amp;iacute;as de aut&amp;eacute;ntica locura, nervios y llamadas, a ra&amp;iacute;z de la ca&amp;iacute;da de servicio que sufrimos la noche del pasado s&amp;aacute;bado, parece que todo vuelve a la normalidad: los t&amp;eacute;cnicos de Veloxia nos han confirmado hace una media hora que ya han podido restablecer la memoria original del servidor, de forma que hemos podido arrancar la plataforma de nuevo a todo rendimiento.
 No puedo m&amp;aacute;s que disculparme de nuevo y agradecer todos los mensajes y comentarios que apoyo que nos hab&amp;eacute;is enviado.</description>
     </item>
     
     <item>
       <title>Caída del servicio durante las últimas horas</title>
-      <link>http://blog.obolog.es/caida-servicio-durante-ultimas-horas-113662/</link>
+      <link>http://blog.obolog.com/caida-servicio-durante-ultimas-horas-113662/</link>
       <pubDate>Mon, 28 Jul 2008 07:45:27 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/caida-servicio-durante-ultimas-horas-113662/</guid>
+      <guid>http://blog.obolog.com/caida-servicio-durante-ultimas-horas-113662/</guid>
       <description>Desde las 3AM de ayer domingo hasta esta ma&amp;ntilde;ana a las 7AM (horario espa&amp;ntilde;ol) OboLog ha estado fuera de combate. Tuvimos un problema grave en el servidor: parece que la fuente de alimentaci&amp;oacute;n dej&amp;oacute; de hacer su trabajo y la m&amp;aacute;quina sencillamente... se apag&amp;oacute;.
 &amp;Eacute;sto, sumado a otros problemas derivados de la p&amp;eacute;rdida de energ&amp;iacute;a, forzaron un cambio de m&amp;aacute;quina que se alarg&amp;oacute; durante todo el d&amp;iacute;a. Los chicos del servicio t&amp;eacute;cnico de Ferca/Veloxia, nuestros proveedores de servicios, terminaron de montar el nuevo servidor a eso de las once de la noche de ayer, pero sin la memoria RAM necesaria para asegurar la estabilidad de la plataforma (nuestro anterior server dispon&amp;iacute;a de 3GB frente a 1GB del server actual).</description>
     </item>

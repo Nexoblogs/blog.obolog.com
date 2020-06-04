@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fotos on Obolog</title>
-    <link>http://blog.obolog.es/tags/fotos/</link>
+    <link>http://blog.obolog.com/tags/fotos/</link>
     <description>Recent content in fotos on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 18 Mar 2008 16:05:09 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.obolog.es/tags/fotos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.com/tags/fotos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Envía fotos desde tu móvil a tu blog, desde Flickr</title>
-      <link>http://blog.obolog.es/envia-fotos-movil-blog-flickr-69966/</link>
+      <link>http://blog.obolog.com/envia-fotos-movil-blog-flickr-69966/</link>
       <pubDate>Tue, 18 Mar 2008 16:05:09 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/envia-fotos-movil-blog-flickr-69966/</guid>
+      <guid>http://blog.obolog.com/envia-fotos-movil-blog-flickr-69966/</guid>
       <description>&amp;iquest;Tienes un m&amp;oacute;vil con c&amp;aacute;mara de fotos? &amp;iquest;Y tambi&amp;eacute;n una cuenta en Flickr? Pues deber&amp;iacute;as saber que ya puedes enviar fotos desde tu m&amp;oacute;vil directamente a tu blog. &amp;iquest;C&amp;oacute;mo? Te lo explicamos en unos sencillos pasos:
 1. Accede a tu p&amp;aacute;gina de cuenta, haciendo clic en tu nombre de usuario, en la barra superior.
 2. Haz click en la pesta&amp;ntilde;a &#34;Extendiendo Flickr&#34;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Mejoras en la visualización de álbumes</title>
-      <link>http://blog.obolog.es/mejoras-visualizacion-albumes-1389/</link>
+      <link>http://blog.obolog.com/mejoras-visualizacion-albumes-1389/</link>
       <pubDate>Sun, 05 Mar 2006 22:01:35 +0000</pubDate>
       
-      <guid>http://blog.obolog.es/mejoras-visualizacion-albumes-1389/</guid>
+      <guid>http://blog.obolog.com/mejoras-visualizacion-albumes-1389/</guid>
       <description>A lo largo de esta semana pasada se han implementado algunas mejoras en relaci&amp;oacute;n con la visualizaci&amp;oacute;n de fotograf&amp;iacute;as: Los &amp;aacute;lbumes de fotos ahora aparecen paginados, de manera que la visualizaci&amp;oacute;n o b&amp;uacute;squeda de im&amp;aacute;genes a trav&amp;eacute;s de los mismos es bastante m&amp;aacute;s c&amp;oacute;moda. Se ha aumentado el tama&amp;ntilde;o de las miniaturas en los listados de fotograf&amp;iacute;as de los &amp;aacute;lbumes.Se ha implementado un nuevo sistema de visualizaci&amp;oacute;n de fotograf&amp;iacute;as basado en la librer&amp;iacute;a javascript LightBox , gracias a la cual ya no es necesario usar los molestos popups: las im&amp;aacute;genes se abren en la propia ventana del navegador, sin necesidad de recargar la p&amp;aacute;gina.</description>
     </item>
     
