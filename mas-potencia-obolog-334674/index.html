@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.67.1" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Más potencia para OboLog &middot; Obolog</title>
+  <meta name="description" content="" />
+
+  
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class="theme-obolog ">
+  <aside class="sidebar">
+
+  <a href="https://blog.obolog.es/">
+    <img src="/css/logo.png" />
+  </a>
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Obolog ha cerrado</h1>
+      
+      <p class="lead">
+       Durante el año 2002 y 2020, Obolog ofreció de manera gratuita blogs para la comunidad hispanoablante. En junio del 2020, el proyecto se descontinuó.
+   
+      </p>
+    </div>
+
+  Leer el <a href="/obolog-dice-adios-despues-18-anos-servicio-2532443">anuncio de cierre</a>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Más potencia para OboLog</h1>
+  <time datetime=2009-09-12T18:55:00Z class="post-date">Sat, Sep 12, 2009</time>
+  <p>Pos&iacute;blemente durante la &uacute;ltima semana hab&eacute;is experimentado algunos problemas para acceder a OboLog, especialmente por la noche, durante las horas en qu&eacute; experimentamos los picos de tr&aacute;fico. La cuesti&oacute;n es que <strong>el servidor al que nos movimos hace un a&ntilde;o se ha quedado peque&ntilde;o</strong>: durante estos &uacute;ltimos meses hemos multiplicado pr&aacute;cticamente por 4 nuestro tr&aacute;fico y el pobre ha tenido problemas para aguantar en determinados momentos. &iexcl;Del mill&oacute;n y medio de visitas que ten&iacute;amos en agosto del 2008 hemos pasado a m&aacute;s de 5 millones y medio en agosto de 2009!</p>
+<p>La mala noticia es que con el retraso en la activaci&oacute;n del servidor, hace un par de d&iacute;as<strong> tuvimos que desactivar el sistema de estad&iacute;sticas</strong> que registra las lecturas de posts para poder estabilizar la m&aacute;quina, con lo que ver&eacute;is un baj&oacute;n en los d&iacute;as 9, 10 y 11 de octubre.</p>
+<p>Tratando de prever lo ocurrido, hace un par de semanas ampliamos la plataforma con una nueva m&aacute;quina dedicada en exclusiva a las bases de datos, aunque una cadena de problemas con nuestro proveedor de hosting nos ha impedido ponerlo en marcha hasta hoy. Por esto <strong>os pedimos disculpas a todos los que no hab&eacute;is podido gestionar correctamente vuestros blogs durante estos d&iacute;as</strong>, y os agradecemos vuestra paciencia y comprensi&oacute;n.</p>
+<p>Vamos con <strong>las buenas noticias</strong>: Hoy a las 8 de la ma&ntilde;ana hemos terminado con la configuraci&oacute;n del nuevo servidor y hemos llevado a cabo la migraci&oacute;n de todos los datos, con lo que desde hoy mismo estos problemas deber&iacute;an terminar definitivamente. Con el nuevo servidor, <strong>volvemos a tener OboLog para rato</strong>. :-)</p>
+<p>De momento, las lecturas de rendimiento del servidor web nos muestran una mejora espectacular:</p>
+<p style="text-align: center;"><img class="fotobonita" title="/img/posts/334674-182045.jpg" width="544" height="151" /></p>
+<p>Para los m&aacute;s curiosos, la plataforma actual de OboLog se compone de 4 servidores:</p>
+<ul>
+<li>Un DELL R200 de 4GB de RAM dedicado, actuando de servidor web y gestionando memcached.</li>
+<li>Un DELL R200 de 2GB de RAM dedicado, actuando (desde hoy) como servidor de base de datos.</li>
+<li>Una instancia en Amazon EC2 actuando como intermediaria con los buckets de S3 que alojan las im&aacute;genes y avatares de todos los blogs, que se encarga de servir y cachear las im&aacute;genes .</li>
+<li>Un VPS funcionando como servidor de correo y Subversion, gestionando algunas aplicaciones internas.</li>
+</ul>
+<p>Recordad que si ten&eacute;is alg&uacute;n problema con vuestros blogs pod&eacute;is solicitarnos soporte desde <a href="http://www.obolog.com/contact">el formulario de contacto</a>.</p>
+</div>
+
+
+    </main>
+
+    
+      
+    
+  </body>
+</html>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.67.1" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Usa tu dominio en tu blog de OboLog &middot; Obolog</title>
+  <meta name="description" content="" />
+
+  
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://blog.obolog.es/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class="theme-obolog ">
+  <aside class="sidebar">
+
+  <a href="https://blog.obolog.es/">
+    <img src="/css/logo.png" />
+  </a>
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Obolog ha cerrado</h1>
+      
+      <p class="lead">
+       Durante el año 2002 y 2020, Obolog ofreció de manera gratuita blogs para la comunidad hispanoablante. En junio del 2020, el proyecto se descontinuó.
+   
+      </p>
+    </div>
+
+  Leer el <a href="/obolog-dice-adios-despues-18-anos-servicio-2532443">anuncio de cierre</a>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Usa tu dominio en tu blog de OboLog</h1>
+  <time datetime=2007-10-09T09:17:00Z class="post-date">Tue, Oct 9, 2007</time>
+  <p>
+  Hoy entraremos en detalle en una de las funcionalidades más
+  interesantes de las que incluímos en la última actualización de
+  <strong>OboLog</strong>: la posibilidad de vincular dominios
+  propios a vuestros blogs.
+</p>
+<h2>
+  Introducción&nbsp;
+</h2>
+<p>
+  En <strong>OboLog</strong> desde siempre hemos dado gran
+  importancia al tipo de direcciones web que se usarían para las
+  URL de los blogs de nuestros usuarios: su longitud, su
+  complejidad, su estructura... A diferencia de otros sistemas de
+  blogs que usan direcciones del tipo
+  http://www.dominio.com/nombredelblog , ofrecemos desde el
+  principio la opción de usar subdominios del tipo
+  http://nombredelblog.obolog.com, y es que tanto por simple
+  imagen, como por temas SEO, incluir el nombre del blog dentro del
+  propio dominio resulta positivo.
+</p>
+<p>
+  De todas formas, como bloggers que somos todos los que trabajamos
+  en <strong>OboLog</strong>, somos conscientes de que un blog es
+  una extensión muy importante de la presencia en la red de
+  cualquier usuario. Como tal, con el tiempo se hace patente la
+  necesidad de poder "personalizar" este espacio desde todos los
+  puntos de vista ( apariencia, estilo, estrctura, redacción...
+  ¡URL! ). Es por esto que, pensando sobretodo en aquellos usuarios
+  más intensivos o expertos, <strong>incorporamos la opción de
+  poder vincular un dominio propio a cualquiera de los
+  blogs</strong>.
+</p>
+<p>
+  El sistema, además, tiene en cuenta todos los contenidos
+  registrados con la URL antigua ( nombredelblog.obolog.com ) y usa
+  redirecciones permanentes ( redirects 301 ) para evitar la
+  pérdida de posicionamiento de contenidos en buscadores.
+</p>
+<h2>
+  Cómo vincular tu dominio
+</h2>
+<h3>
+  <strong>Registro del dominio</strong>&nbsp;
+</h3>
+<p>
+  En primer lugar, deberás disponer de un dominio registrado. En
+  OboLog no ofrecemos, de momento, el servicio de registro de
+  dominios, así que si todavía no dispones de uno deberás acudir a
+  cualquier registrador autorizado.
+</p>
+<p>
+  Nosotros te recomendamos:
+</p>
+<ul>
+  <li>
+    <a href="http://www.godaddy.com/">GoDaddy</a> ( USA )
+  </li>
+  <li>
+    <a href="http://www.ferca.com">Ferca</a> ( ES )
+  </li>
+  <li>
+    <a href="http://www.dinahosting.com">Dinahosting</a> ( ES )
+  </li>
+  <li>
+    <a href=    "http://www.dondominio.com/help/es/237/apuntar-dominio-obolog/">
+    DonDominio</a> ( ES )
+  </li>
+</ul>
+<p>
+  Una vez registrado el dominio, deberás realizar algunas
+  modificaciones a las zonas DNS.
+</p>
+<h3>
+  <strong>Modificación de las zonas DNS</strong>&nbsp;
+</h3>
+<p>
+  La mayoría de paneles de control de dominios te permitirán
+  acceder a la gestión de zonas DNS, donde encontrarás un listado
+  similar a éste:
+</p>
+<p>
+  <img class="fotobonita" style=  "display: block; margin-left: auto; margin-right: auto;" title=  "DNS" src=  "/img/posts/4f51d3e3daaefs27887.jpg"  alt=" TAGS:" align="center">
+</p>
+<p>
+  Para vincular tu nuevo dominio con tu blog deberás crear una
+  entrada CNAME, con los siguientes datos.
+</p>
+<ul>
+  <li>
+    <strong>Host</strong> : "www"
+  </li>
+  <li>
+    <strong>Points to</strong>: "dns.obolog.com"
+  </li>
+</ul>
+<p>
+  Puedes cambiar "www" por cualquier otro nombre de host que
+  quieras asociar con tu dominio. Si por ejemplo ya dispones de un
+  dominio, "www.miclubdefutbol.com", y quisieras vincular la
+  dirección "blog.miclubdefutbol.com" a tu blog en obolog, deberías
+  introducir "blog" en nombre de host en vez de "www".
+</p>
+<p>
+  Una vez guardados los datos, deberás esperar a que los cambios se
+  propaguen correctamente. Ten en cuenta que este proceso puede
+  llegar a durar hasta 24h. Sabrás que los cambios son efectivos
+  cuando introduzcas la URL de tu dominio y te aparezca OboLog en
+  pantalla. En este momento estarás ya listo para realizar el
+  último paso.
+</p>
+<h3>
+  Vinculación del dominio
+</h3>
+<p>
+  La vinculación del dominio se realiza desde tu panel de gestión.
+  Encontrarás la opción dentro de "<strong>Organizar &gt; Blog &gt;
+  Opciones avanzadas &gt; Dominio de tu blog</strong>". Simplemente
+  deberás escribir el dominio que quieres enlazar con tu blog y
+  hacer clic en Guardar.
+</p>
+<p align="center">
+  <img title="Tu dominio" src=  "/img/posts/4f51d417e6796s8839.jpg" alt=  " TAGS:" align="center">
+</p>
+<p>
+  Si el proceso de cambio de zonas se llevó a cabo correctamente,
+  recibirás un mensaje de confirmación y desde ese momento, todas
+  las direcciones relacionadas con tu blog incluirán tu dominio
+  propio.&nbsp;
+</p>
+<p>
+  Puedes ver ejemplos de usuarios que ya han vinculado dominios
+  propios a sus blogs:
+</p>
+<ul>
+  <li>
+    <a href=    "http://www.fernandortega.com">http://www.fernandortega.com</a>
+  </li>
+  <li>
+    <a href=    "http://www.conaromadecafe.com">http://www.conaromadecafe.com</a>
+  </li>
+  <li>
+    <a href="http://www.kompotser.com">http://www.kompotser.com</a>
+  </li>
+  <li>
+    <a href="http://www.obokaman.com">http://www.obokaman.com</a>
+  </li>
+</ul>
+<h3>
+  Dudas, consultas, sugerencias...
+</h3>
+<p>
+  Como siempre, mediante <a href="/contact">nuestro formulario de
+  contacto</a>.&nbsp;
+</p>
+</div>
+
+
+    </main>
+
+    
+      
+    
+  </body>
+</html>

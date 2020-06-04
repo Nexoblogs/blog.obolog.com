@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosting on Obolog</title>
+    <link>https://blog.obolog.es/tags/hosting/</link>
+    <description>Recent content in hosting on Obolog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 02 Oct 2007 08:55:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.obolog.es/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Nueva casa para OboLog!</title>
+      <link>https://blog.obolog.es/nueva-casa-obolog-30385/</link>
+      <pubDate>Tue, 02 Oct 2007 08:55:35 +0000</pubDate>
+      
+      <guid>https://blog.obolog.es/nueva-casa-obolog-30385/</guid>
+      <description>Si alguno de vosotros visit&amp;oacute; OboLog el pasado domingo, se topar&amp;iacute;a, al menos durante un rato, con un mensaje que indicaba que est&amp;aacute;bamos de mudanza, y as&amp;iacute; era: OboLog se ha mudado de casa, hemos migrado la plataforma a unos nuevos servidores, m&amp;aacute;s potentes, m&amp;aacute;s r&amp;aacute;pidos, y optimizados al detalle para que todo vaya como el rayo a partir de ahora.C&amp;oacute;mo sabr&amp;eacute;is, durante el &amp;uacute;ltimo mes hemos venido sufriendo cortes eventuales de servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

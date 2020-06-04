@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notificaciones on Obolog</title>
+    <link>https://blog.obolog.es/tags/notificaciones/</link>
+    <description>Recent content in notificaciones on Obolog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 27 Oct 2006 00:29:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.obolog.es/tags/notificaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Actualización del servidor y breve caída del servicio</title>
+      <link>https://blog.obolog.es/actualizacion-servidor-breve-caida-servicio-4579/</link>
+      <pubDate>Fri, 27 Oct 2006 00:29:59 +0000</pubDate>
+      
+      <guid>https://blog.obolog.es/actualizacion-servidor-breve-caida-servicio-4579/</guid>
+      <description>Durante las &amp;uacute;ltimas horas del d&amp;iacute;a de hoy hemos actualizado la versi&amp;oacute;n de PHP del servidor, de cara a la incorporaci&amp;oacute;n de nuevas librer&amp;iacute;as y funcionalidades. Esta actualizaci&amp;oacute;n ha provocado que la web no funcionara correctamente desde aproximadamente las 20h hasta las 23h ( GMT+1 ). Lamentamos las molestias que esta ca&amp;iacute;da del servicio os haya podido causar, y os agradeceremos que nos inform&amp;eacute;is si veis que algo no funciona como debiera.</description>
+    </item>
+    
+  </channel>
+</rss>

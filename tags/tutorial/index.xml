@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Obolog</title>
+    <link>https://blog.obolog.es/tags/tutorial/</link>
+    <description>Recent content in tutorial on Obolog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 24 Aug 2011 23:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.obolog.es/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incluir imágenes y álbumes de fotos en tu blog</title>
+      <link>https://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</link>
+      <pubDate>Wed, 24 Aug 2011 23:43:00 +0000</pubDate>
+      
+      <guid>https://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</guid>
+      <description>Como habr&amp;aacute;s podido comprobar si ya tienes tu propio blog en OboLog, el sistema de publicaci&amp;oacute;n te permite crear tus propios &amp;aacute;lbumes de fotos, subiendo im&amp;aacute;genes a tu blog desde tu ordenador y sin necesidad de depender de alojamientos externos. El proceso es muy simple, as&amp;iacute; que vamos a repasar los pasos a seguir para crear un &amp;aacute;lbum o incrustar im&amp;aacute;genes en tus posts, e ilustrar de esta forma tu &amp;uacute;ltimo viaje, tu art&amp;iacute;culo o tu idea.</description>
+    </item>
+    
+  </channel>
+</rss>
