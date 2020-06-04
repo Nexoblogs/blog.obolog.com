@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blogs on Obolog</title>
-    <link>https://blog.obolog.es/tags/blogs/</link>
+    <link>http://blog.obolog.es/tags/blogs/</link>
     <description>Recent content in blogs on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 15 Apr 2013 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.obolog.es/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.es/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trae tu blog de Posterous a Obolog</title>
-      <link>https://blog.obolog.es/trae-blog-posterous-obolog-2264404/</link>
+      <link>http://blog.obolog.es/trae-blog-posterous-obolog-2264404/</link>
       <pubDate>Mon, 15 Apr 2013 09:00:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/trae-blog-posterous-obolog-2264404/</guid>
+      <guid>http://blog.obolog.es/trae-blog-posterous-obolog-2264404/</guid>
       <description>Hace algunas semanas el popular site de creación de blogs Posterous informó que cerraba sus puertas&amp;nbsp;el próximo día 30 de Abril. Si bien era una noticia que algunos esperaban tarde o temprano tras la compra de la compañía por parte de Twitter, esto dejaba &#34;huérfanos&#34; a muchos bloggers, que debían encontrar un servicio al que migrar sus blogs lo antes posible.&amp;nbsp;  Si tú eres uno de ellos, estás de enhorabuena: en Obolog lo tenemos todo preparado para que puedas trasladar tu blog desde Posterous de la forma más sencilla posible:  Ve a&amp;nbsp;http://posterous.</description>
     </item>
     
     <item>
       <title>Export Posterous blog to Obolog. Migration guide</title>
-      <link>https://blog.obolog.es/export-posterous-blog-to-obolog-migration-guide-2264900/</link>
+      <link>http://blog.obolog.es/export-posterous-blog-to-obolog-migration-guide-2264900/</link>
       <pubDate>Mon, 15 Apr 2013 08:30:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/export-posterous-blog-to-obolog-migration-guide-2264900/</guid>
+      <guid>http://blog.obolog.es/export-posterous-blog-to-obolog-migration-guide-2264900/</guid>
       <description>A few weeks ago the popular blogging platform Posterous reported that the service will turn off&amp;nbsp;on April 30th. While it might seem expected after the company&#39;s adquisition by Twitter, truth is that this leaves many bloggers in the cold. Posterous users have now the task to find a service where their blogs can be migrated to, and as soon as possible.  If you&#39;re one of them, you&#39;re lucky: at Obolog everything is ready for you to transition your blog from Posterous the simplest way.</description>
     </item>
     
     <item>
       <title>Rediseño y novedades en OboLog</title>
-      <link>https://blog.obolog.es/rediseno-novedades-obolog-14628/</link>
+      <link>http://blog.obolog.es/rediseno-novedades-obolog-14628/</link>
       <pubDate>Thu, 21 Jun 2007 02:05:51 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/rediseno-novedades-obolog-14628/</guid>
+      <guid>http://blog.obolog.es/rediseno-novedades-obolog-14628/</guid>
       <description>A poco m&amp;aacute;s de un mes y medio de la salida de la nueva versi&amp;oacute;n de OboLog, hemos decidido ir un poco m&amp;aacute;s all&amp;aacute;, dar un paso m&amp;aacute;s, guiados por los resultados de estas semanas y el feedback que hemos ido recibiendo por vuestra parte. Los cambios han pasado por:Una renovaci&amp;oacute;n del estilo visual, con la intenci&amp;oacute;n de hacer m&amp;aacute;s claro el dise&amp;ntilde;o y f&amp;aacute;cil la lectura y la navegaci&amp;oacute;n.</description>
     </item>
     
     <item>
       <title>Y seguimos con más novedades: álbumes y mensajes relacionados</title>
-      <link>https://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</link>
+      <link>http://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</link>
       <pubDate>Thu, 07 Sep 2006 07:33:32 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</guid>
+      <guid>http://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</guid>
       <description>&amp;iexcl;Estamos de racha! De nuevo novedades en lo que se refiere a la gesti&amp;oacute;n de galer&amp;iacute;as:Ordenacion din&amp;aacute;mica de im&amp;aacute;genes: S&amp;oacute;lo tienes que acceder a cualquier mensaje en el que hayas publicado im&amp;aacute;genes y seleccionar la &amp;quot;vista thumbnails&amp;quot;. Desde esa vista podr&amp;aacute;s ordenar tus fotos como quieras con s&amp;oacute;lo &amp;quot;arrastrar y soltar&amp;quot;. As&amp;iacute; de sencillo.
 Edici&amp;oacute;n de fotos &amp;quot;inline&amp;quot;: La tarea de editar los t&amp;iacute;tulos, etiquetas y comentarios de tus fotos ser&amp;aacute; algo menos pesada a partir de ahora.</description>
     </item>

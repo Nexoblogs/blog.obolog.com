@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spam on Obolog</title>
-    <link>https://blog.obolog.es/tags/spam/</link>
+    <link>http://blog.obolog.es/tags/spam/</link>
     <description>Recent content in spam on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 27 Sep 2008 17:42:46 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.obolog.es/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.es/tags/spam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aviso de SPAM</title>
-      <link>https://blog.obolog.es/aviso-de-spam-131161/</link>
+      <link>http://blog.obolog.es/aviso-de-spam-131161/</link>
       <pubDate>Sat, 27 Sep 2008 17:42:46 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/aviso-de-spam-131161/</guid>
+      <guid>http://blog.obolog.es/aviso-de-spam-131161/</guid>
       <description>En los &amp;uacute;ltimos d&amp;iacute;as, algunos de nuestros usuarios han sido v&amp;iacute;ctimas de mensajes de SPAM, de correos no solicitados en los que aparec&amp;iacute;a un mensaje personal de una chica que parec&amp;iacute;a mostrar su inter&amp;eacute;s en ellos y los invitaba a contactar con ella. El email ten&amp;iacute;a el aspecto siguiente:
 
 Desde OboLog queremos alertaros para que ignor&amp;eacute;is este tipo de mensajes automatizados. As&amp;iacute;mismo, confirmaros que no existe ninguna relaci&amp;oacute;n entre nosotros y los emisores de dichos correos.</description>
@@ -24,10 +24,10 @@ Desde OboLog queremos alertaros para que ignor&amp;eacute;is este tipo de mensaj
     
     <item>
       <title>Combatiendo el SPAM</title>
-      <link>https://blog.obolog.es/combatiendo-spam-2684/</link>
+      <link>http://blog.obolog.es/combatiendo-spam-2684/</link>
       <pubDate>Fri, 02 Jun 2006 07:22:58 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/combatiendo-spam-2684/</guid>
+      <guid>http://blog.obolog.es/combatiendo-spam-2684/</guid>
       <description>De un tiempo a esta parte, poco a poco, y gracias a la confianza que muchos de vosotros hab&amp;eacute;is ido depositando en esta nuestra comunidad, OboLog ha crecido mucho m&amp;aacute;s de lo que hubiera podido imaginar: M&amp;aacute;s de 400 blogs creados, casi 200.000 usuarios &amp;uacute;nicos, sobre 1 mill&amp;oacute;n de p&amp;aacute;ginas vistas durante este mes pasado, y unos cuantos miles de p&amp;aacute;ginas indexadas en Google , muy bien indexadas , por cierto, para determinadas b&amp;uacute;squedas.</description>
     </item>
     

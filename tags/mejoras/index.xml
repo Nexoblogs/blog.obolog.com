@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mejoras on Obolog</title>
-    <link>https://blog.obolog.es/tags/mejoras/</link>
+    <link>http://blog.obolog.es/tags/mejoras/</link>
     <description>Recent content in mejoras on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 23 Aug 2011 19:33:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.obolog.es/tags/mejoras/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.es/tags/mejoras/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Incluir vídeos en tus artículos</title>
-      <link>https://blog.obolog.es/incluir-videos-tus-articulos-4457/</link>
+      <link>http://blog.obolog.es/incluir-videos-tus-articulos-4457/</link>
       <pubDate>Tue, 23 Aug 2011 19:33:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/incluir-videos-tus-articulos-4457/</guid>
+      <guid>http://blog.obolog.es/incluir-videos-tus-articulos-4457/</guid>
       <description>&amp;iquest;Sab&amp;iacute;as que puedes incluir v&amp;iacute;deos de Youtube, Vimeo, Dailymotion y otros muchos sistemas de v&amp;iacute;deo en tus art&amp;iacute;culos de Obolog?
 Conseguirlo es muy f&amp;aacute;cil. &amp;iquest;Preparado?
 Cuando est&amp;eacute;s escribiendo un art&amp;iacute;culo o editando alguno que hayas publicado previamente, ver&amp;aacute;s en la parte superior de la columna derecha un bot&amp;oacute;n &#34;V&amp;iacute;deo&#34;:
@@ -25,38 +25,38 @@ Al hacer clic en este bot&amp;oacute;n, aparecer&amp;aacute; una ventana en la q
     
     <item>
       <title>Mejoras en Obolog</title>
-      <link>https://blog.obolog.es/mejoras-obolog-1200897/</link>
+      <link>http://blog.obolog.es/mejoras-obolog-1200897/</link>
       <pubDate>Tue, 10 May 2011 19:14:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/mejoras-obolog-1200897/</guid>
+      <guid>http://blog.obolog.es/mejoras-obolog-1200897/</guid>
       <description>&amp;iexcl;Hola a tod@s, Obologuers!
 Empezar&amp;eacute; diciendo que el &amp;uacute;ltimo a&amp;ntilde;o ha sido algo duro, y eso lo sab&amp;eacute;is bien los obologuers m&amp;aacute;s veteranos: Hemos tenido que lidiar con algunos problemas de estabilidad, con problemas de crecimiento, con las hordas de spammers que trataban de hacerse un hueco en nuestra comunidad, con el sistema de estad&amp;iacute;sticas... A lo largo de cada una de estas peque&amp;ntilde;as batallas, que hemos ido ganando con empe&amp;ntilde;o, tambi&amp;eacute;n hemos perdido algunos compa&amp;ntilde;eros de viaje.</description>
     </item>
     
     <item>
       <title>¡Nueva casa para OboLog!</title>
-      <link>https://blog.obolog.es/nueva-casa-obolog-30385/</link>
+      <link>http://blog.obolog.es/nueva-casa-obolog-30385/</link>
       <pubDate>Tue, 02 Oct 2007 08:55:35 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/nueva-casa-obolog-30385/</guid>
+      <guid>http://blog.obolog.es/nueva-casa-obolog-30385/</guid>
       <description>Si alguno de vosotros visit&amp;oacute; OboLog el pasado domingo, se topar&amp;iacute;a, al menos durante un rato, con un mensaje que indicaba que est&amp;aacute;bamos de mudanza, y as&amp;iacute; era: OboLog se ha mudado de casa, hemos migrado la plataforma a unos nuevos servidores, m&amp;aacute;s potentes, m&amp;aacute;s r&amp;aacute;pidos, y optimizados al detalle para que todo vaya como el rayo a partir de ahora.C&amp;oacute;mo sabr&amp;eacute;is, durante el &amp;uacute;ltimo mes hemos venido sufriendo cortes eventuales de servicio.</description>
     </item>
     
     <item>
       <title>Navegación por archivos y lectura por páginas</title>
-      <link>https://blog.obolog.es/navegacion-archivos-lectura-paginas-4822/</link>
+      <link>http://blog.obolog.es/navegacion-archivos-lectura-paginas-4822/</link>
       <pubDate>Fri, 03 Nov 2006 20:44:58 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/navegacion-archivos-lectura-paginas-4822/</guid>
+      <guid>http://blog.obolog.es/navegacion-archivos-lectura-paginas-4822/</guid>
       <description>Desde hace algunas semanas habr&amp;aacute;s visto que hay ciertas mejoras en los blogs en lo que se refiere a la navegaci&amp;oacute;n por los archivos. Se ha implementado una funcionalidad tan b&amp;aacute;sica como importante: la paginaci&amp;oacute;n. Tanto cuando visites la home de un blog, como cuando navegues por los archivos, ver&amp;aacute;s que al final del listado de mensajes aparecer&amp;aacute;n unos enlaces &amp;quot;&amp;lt; p&amp;aacute;gina anterior&amp;quot;, &amp;quot;p&amp;aacute;gina siguiente&amp;gt;&amp;quot;, que te permitir&amp;aacute;n ver TODOS los mensajes que dicho blog.</description>
     </item>
     
     <item>
       <title>OboLog te ayuda a mejorar la ortografía de tus posts</title>
-      <link>https://blog.obolog.es/obolog-te-ayuda-mejorar-ortografia-tus-posts-4456/</link>
+      <link>http://blog.obolog.es/obolog-te-ayuda-mejorar-ortografia-tus-posts-4456/</link>
       <pubDate>Fri, 20 Oct 2006 19:21:58 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/obolog-te-ayuda-mejorar-ortografia-tus-posts-4456/</guid>
+      <guid>http://blog.obolog.es/obolog-te-ayuda-mejorar-ortografia-tus-posts-4456/</guid>
       <description>OboLog incorpora desde hoy una nueva y &amp;uacute;til mejora al editor: Correcci&amp;oacute;n ortogr&amp;aacute;fica para tus mensajes.A partir de ahora ver&amp;aacute;s un nuevo bot&amp;oacute;n en la barra de herramientas del cuadro de edici&amp;oacute;n de mensajes: Activando la correcci&amp;oacute;n ortogr&amp;aacute;fica, una vez hayas acabado de redactar tu mensaje, el editor revisar&amp;aacute; todas las palabras, y marcar&amp;aacute; aquellas que contengan errores, mostrando adem&amp;aacute;s algunas sugerencias para llevar a cabo la correcci&amp;oacute;n.</description>
     </item>
     

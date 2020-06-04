@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>imágenes on Obolog</title>
-    <link>https://blog.obolog.es/tags/im%C3%A1genes/</link>
+    <link>http://blog.obolog.es/tags/im%C3%A1genes/</link>
     <description>Recent content in imágenes on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 24 Aug 2011 23:43:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.obolog.es/tags/im%C3%A1genes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.obolog.es/tags/im%C3%A1genes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Incluir imágenes y álbumes de fotos en tu blog</title>
-      <link>https://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</link>
+      <link>http://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</link>
       <pubDate>Wed, 24 Aug 2011 23:43:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</guid>
+      <guid>http://blog.obolog.es/incluir-imagenes-albumes-fotos-blog-13509/</guid>
       <description>Como habr&amp;aacute;s podido comprobar si ya tienes tu propio blog en OboLog, el sistema de publicaci&amp;oacute;n te permite crear tus propios &amp;aacute;lbumes de fotos, subiendo im&amp;aacute;genes a tu blog desde tu ordenador y sin necesidad de depender de alojamientos externos. El proceso es muy simple, as&amp;iacute; que vamos a repasar los pasos a seguir para crear un &amp;aacute;lbum o incrustar im&amp;aacute;genes en tus posts, e ilustrar de esta forma tu &amp;uacute;ltimo viaje, tu art&amp;iacute;culo o tu idea.</description>
     </item>
     
     <item>
       <title>Y seguimos con más novedades: álbumes y mensajes relacionados</title>
-      <link>https://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</link>
+      <link>http://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</link>
       <pubDate>Thu, 07 Sep 2006 07:33:32 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</guid>
+      <guid>http://blog.obolog.es/seguimos-mas-novedades-albumes-mensajes-relacionados-3819/</guid>
       <description>&amp;iexcl;Estamos de racha! De nuevo novedades en lo que se refiere a la gesti&amp;oacute;n de galer&amp;iacute;as:Ordenacion din&amp;aacute;mica de im&amp;aacute;genes: S&amp;oacute;lo tienes que acceder a cualquier mensaje en el que hayas publicado im&amp;aacute;genes y seleccionar la &amp;quot;vista thumbnails&amp;quot;. Desde esa vista podr&amp;aacute;s ordenar tus fotos como quieras con s&amp;oacute;lo &amp;quot;arrastrar y soltar&amp;quot;. As&amp;iacute; de sencillo.
 Edici&amp;oacute;n de fotos &amp;quot;inline&amp;quot;: La tarea de editar los t&amp;iacute;tulos, etiquetas y comentarios de tus fotos ser&amp;aacute; algo menos pesada a partir de ahora.</description>
     </item>
     
     <item>
       <title>Nuevas mejoras en la gestión de imágenes</title>
-      <link>https://blog.obolog.es/nuevas-mejoras-gestion-imagenes-3625/</link>
+      <link>http://blog.obolog.es/nuevas-mejoras-gestion-imagenes-3625/</link>
       <pubDate>Fri, 18 Aug 2006 15:51:00 +0000</pubDate>
       
-      <guid>https://blog.obolog.es/nuevas-mejoras-gestion-imagenes-3625/</guid>
+      <guid>http://blog.obolog.es/nuevas-mejoras-gestion-imagenes-3625/</guid>
       <description>Si eres usuario de OboLog y has accedido a tu panel de control durante los &amp;uacute;ltimos d&amp;iacute;as, habr&amp;aacute;s visto que hay algunas novedades respecto a al gesti&amp;oacute;n de im&amp;aacute;genes. Despu&amp;eacute;s de mucho buscar, probar, descartar, investigar... hemos optado por usar un peque&amp;ntilde;o applet de java que a partir de ahora nos permitir&amp;aacute; cargar tantas fotos como queramos de manera simult&amp;aacute;nea a nuestros blogs.
 Si eres de los que acostumbran a adjuntar muchas fotos a sus mensajes, sabr&amp;aacute;s lo tedioso que resultaba hasta ahora ir cargando las im&amp;aacute;genes una a una, y esperando para cambiarles individualmente el t&amp;iacute;tulo, la descripci&amp;oacute;n.</description>
     </item>
