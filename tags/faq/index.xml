@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>faq on Obolog</title>
-    <link>http://blog.obolog.com/tags/faq/</link>
+    <link>https://blog.obolog.com/tags/faq/</link>
     <description>Recent content in faq on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 06 Apr 2008 23:59:09 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.obolog.com/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.obolog.com/tags/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Añade contactos en OboLog</title>
-      <link>http://blog.obolog.com/anade-contactos-obolog-74671/</link>
+      <link>https://blog.obolog.com/anade-contactos-obolog-74671/</link>
       <pubDate>Sun, 06 Apr 2008 23:59:09 +0000</pubDate>
       
-      <guid>http://blog.obolog.com/anade-contactos-obolog-74671/</guid>
+      <guid>https://blog.obolog.com/anade-contactos-obolog-74671/</guid>
       <description>Desde hace algunos meses ya es posible gestionar tus contactos en OboLog. Mantener una lista de contactos te permite, entre otras cosas, hacer un seguimiento de los mensajes que escriben aquellas personas que conoces, o aquellos usuarios que m&amp;aacute;s te interesan.
 Para a&amp;ntilde;adir a un usuario a tu lista de contactos s&amp;oacute;lo tienes que acceder a su ficha de usuario y hacer clic en el enlace &#34;a&amp;ntilde;adir a contactos&#34;. Tambi&amp;eacute;n puedes a&amp;ntilde;adir nuevos amigos a tu lista de contactos desde los listados de usuarios, bajo la pesta&amp;ntilde;a &#34;</description>
     </item>
     
     <item>
       <title>Usa tu dominio en tu blog de OboLog</title>
-      <link>http://blog.obolog.com/usa-dominio-blog-obolog-31585/</link>
+      <link>https://blog.obolog.com/usa-dominio-blog-obolog-31585/</link>
       <pubDate>Tue, 09 Oct 2007 09:17:00 +0000</pubDate>
       
-      <guid>http://blog.obolog.com/usa-dominio-blog-obolog-31585/</guid>
+      <guid>https://blog.obolog.com/usa-dominio-blog-obolog-31585/</guid>
       <description>Hoy entraremos en detalle en una de las funcionalidades más interesantes de las que incluímos en la última actualización de OboLog: la posibilidad de vincular dominios propios a vuestros blogs.  Introducción&amp;nbsp;   En OboLog desde siempre hemos dado gran importancia al tipo de direcciones web que se usarían para las URL de los blogs de nuestros usuarios: su longitud, su complejidad, su estructura... A diferencia de otros sistemas de blogs que usan direcciones del tipo http://www.</description>
     </item>
     

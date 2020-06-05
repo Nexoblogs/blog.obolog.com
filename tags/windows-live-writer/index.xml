@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>windows live writer on Obolog</title>
-    <link>http://blog.obolog.com/tags/windows-live-writer/</link>
+    <link>https://blog.obolog.com/tags/windows-live-writer/</link>
     <description>Recent content in windows live writer on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 06 Dec 2007 10:33:55 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.obolog.com/tags/windows-live-writer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.obolog.com/tags/windows-live-writer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publica en tu blog desde Windows Live Writer</title>
-      <link>http://blog.obolog.com/publica-blog-windows-live-writer-44646/</link>
+      <link>https://blog.obolog.com/publica-blog-windows-live-writer-44646/</link>
       <pubDate>Thu, 06 Dec 2007 10:33:55 +0000</pubDate>
       
-      <guid>http://blog.obolog.com/publica-blog-windows-live-writer-44646/</guid>
+      <guid>https://blog.obolog.com/publica-blog-windows-live-writer-44646/</guid>
       <description>Como algunos sabr&amp;eacute;is, OboLog os ofrece la posibilidad de enviar contenidos a vuestros blogs desde aplicaciones externas ( Flickr, DailyMotion, etc... ) a trav&amp;eacute;s del MetaWeblog API. En esta ocasi&amp;oacute;n vamos a explicar c&amp;oacute;mo sacar partido de esta potente API para poder escribir posts en vuestro blog desde una aplicaci&amp;oacute;n de escritorio: Windows Live Writer.En primer lugar deber&amp;eacute;is descargar Windows Live Writer. Pod&amp;eacute;is hacerlo desde aqu&amp;iacute;.Una vez lo hay&amp;aacute;is descargado y hay&amp;aacute;is ejecutado el instalador, deber&amp;eacute;is escoger &amp;quot;Another Weblog Service&amp;quot; ( &amp;quot;Otro servicio de blogs&amp;quot; )</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alertas on Obolog</title>
-    <link>http://blog.obolog.com/tags/alertas/</link>
+    <link>https://blog.obolog.com/tags/alertas/</link>
     <description>Recent content in alertas on Obolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 27 Sep 2008 17:42:46 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.obolog.com/tags/alertas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.obolog.com/tags/alertas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aviso de SPAM</title>
-      <link>http://blog.obolog.com/aviso-de-spam-131161/</link>
+      <link>https://blog.obolog.com/aviso-de-spam-131161/</link>
       <pubDate>Sat, 27 Sep 2008 17:42:46 +0000</pubDate>
       
-      <guid>http://blog.obolog.com/aviso-de-spam-131161/</guid>
+      <guid>https://blog.obolog.com/aviso-de-spam-131161/</guid>
       <description>En los &amp;uacute;ltimos d&amp;iacute;as, algunos de nuestros usuarios han sido v&amp;iacute;ctimas de mensajes de SPAM, de correos no solicitados en los que aparec&amp;iacute;a un mensaje personal de una chica que parec&amp;iacute;a mostrar su inter&amp;eacute;s en ellos y los invitaba a contactar con ella. El email ten&amp;iacute;a el aspecto siguiente:
 
 Desde OboLog queremos alertaros para que ignor&amp;eacute;is este tipo de mensajes automatizados. As&amp;iacute;mismo, confirmaros que no existe ninguna relaci&amp;oacute;n entre nosotros y los emisores de dichos correos.</description>
